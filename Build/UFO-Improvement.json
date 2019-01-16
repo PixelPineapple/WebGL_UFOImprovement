@@ -1,0 +1,13 @@
+{
+"companyName": "DefaultCompany",
+"productName": "UFO_Improvement",
+"dataUrl": "UFO-Improvement.data.unityweb",
+"asmCodeUrl": "UFO-Improvement.asm.code.unityweb",
+"asmMemoryUrl": "UFO-Improvement.asm.memory.unityweb",
+"asmFrameworkUrl": "UFO-Improvement.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
